@@ -189,7 +189,7 @@ public class ProductModel {
 			if (lista.size() > 0) {
 				lista.removeIf(a -> a.getCodice() == codiceProdotto);
 			}
-			
+			  
 			return lista;
 		}
 		catch (Exception e) {
