@@ -16,7 +16,7 @@ import model.DriverManagerConnectionPool;
 /**
  * Servlet implementation class Register
  */
-@WebServlet("/Register")
+@WebServlet("/Register")  
 public class Register extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        

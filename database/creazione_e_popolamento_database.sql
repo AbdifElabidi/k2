@@ -2,7 +2,7 @@ DROP database IF EXISTS GeekFactoryDB;
 CREATE database GeekFactoryDB;
 
 USE GeekFactoryDB;
-
+  
 DROP TABLE IF EXISTS UserAccount;
 CREATE TABLE UserAccount
 (
