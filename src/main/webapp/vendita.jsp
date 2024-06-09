@@ -26,7 +26,7 @@
 		<form action="Vendita" enctype="multipart/form-data" METHOD="POST">
 			<div class="user-details">
 				<div class="input-box">
-					<span class="details">Nome prodotto</span>
+					<span class="details">Nome prodotto</span>   
 					<input type="text" name="nome" maxlength="50" placeholder="Inserire nome prodotto" autofocus required/>
 				</div>
 				<div class="input-box">
